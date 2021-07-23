@@ -1,6 +1,6 @@
 // $('.carousel').carousel ({
 //   interval: 2000
-// })
+// })asd
 
 function menuNav() {
     $('.menu-pc').toggleClass('menu-pc-hide');
